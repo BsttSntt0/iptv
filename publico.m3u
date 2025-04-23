@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GloboSP.br" group-title="Canais Abertos",Globo SP
+https://stmv1.srvif.com/globotv/globotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="Canais Abertos",Record News
+https://playplusnews-lh.akamaihd.net/i/ppnews_1@377505/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Canais Abertos",TV Brasil
+https://tvbrasil-lh.akamaihd.net/i/tvbrasil_1@22923/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="Band.br" group-title="Canais Abertos",Band SP
+https://playplusmp4-lh.akamaihd.net/i/pp_bandsp@377519/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="Notícias",CNN Brasil
+https://live.cnnbrasil.com.br/hls/live.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Notícias",Jovem Pan News
+https://jovempan.direto.com/hls/jovempan.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="Canais Abertos",RedeTV
+https://5f9546340c5fb.streamlock.net:443/Redetv/Redetv/playlist.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo.br" group-title="Esportes",Esporte Interativo
+https://59f1cbe63db89.streamlock.net:1443/eiplus/eiplus/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="Entretenimento",Canal Rural
+https://5e50264bd6766.streamlock.net:443/canalrural/canalrural/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Governo",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
